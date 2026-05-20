@@ -6,7 +6,7 @@ Interactive scrollytelling project exploring how UEFA gradually consolidated its
 
 This project was developed as part of a university data visualization assignment focused on learning interactive storytelling and visual communication using Flourish.
 
-Starting from an initial hypothesis — that CONMEBOL’s early historical advantage would eventually be overtaken by UEFA — we explored FIFA World Cup scoring data from 1930 to 2022 through multiple visualizations and narrative sections.
+Starting from an initial hypothesis - that CONMEBOL’s early historical advantage would eventually be overtaken by UEFA - we explored FIFA World Cup scoring data from 1930 to 2022 through multiple visualizations and narrative sections.
 
 Interestingly, the data partially challenged our original assumptions, leading us to rethink how dominance, distribution, and structural advantages are represented across football history.
 
