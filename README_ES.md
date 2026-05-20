@@ -1,5 +1,7 @@
 # La Europeización del Gol
 
+![Header](assets/header.jpg)
+
 Proyecto interactivo de scrollytelling que explora cómo la UEFA consolidó progresivamente su dominio en los goles de los Mundiales de la FIFA a lo largo del tiempo.
 
 ## Descripción
