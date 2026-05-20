@@ -67,11 +67,4 @@ Through this project, I developed experience in:
 
 ## Live Demo
 
-[View Project](INSERT_LINK_HERE)
-
-## Team
-
-Group 10:
-- Del Cuadro
-- Goya
-- Rodriguez Lopez
+[View Project](https://fededelcuadro.github.io/europeizacion-del-gol/)
