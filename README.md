@@ -1,5 +1,7 @@
 # The Europeanization of Goals
 
+![Header](assets/header.jpg)
+
 Interactive scrollytelling project exploring how UEFA gradually consolidated its dominance in FIFA World Cup goals over time.
 
 ## Overview
