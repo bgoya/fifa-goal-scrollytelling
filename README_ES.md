@@ -59,11 +59,4 @@ Este proyecto me permitió desarrollar experiencia en:
 
 ## Demo
 
-[Ver proyecto](INSERTAR_LINK)
-
-## Equipo
-
-Grupo 10:
-- Del Cuadro
-- Goya
-- Rodriguez Lopez
+[Ver proyecto](https://fededelcuadro.github.io/europeizacion-del-gol/)
